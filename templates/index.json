@@ -8,7 +8,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/278961827_5307391719282478_4418160852465385876_n.jpg",
             "heading": "Image slide",
-            "heading_size": "h1",
+            "heading_size": "h2",
             "subheading": "Tell your brand's story through images",
             "button_label": "Button label",
             "link": "",
@@ -26,7 +26,25 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/252231047_562950594996097_2387464118043049054_n.jpg",
             "heading": "Image slide",
-            "heading_size": "h1",
+            "heading_size": "h2",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "e9eafd2d-829e-440c-8b48-0cff7bd5bfaf": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/273402194_112861481309081_6050366914722284341_n.jpg",
+            "heading": "Image slide",
+            "heading_size": "h2",
             "subheading": "Tell your brand's story through images",
             "button_label": "Button label",
             "link": "",
@@ -42,7 +60,8 @@
       },
       "block_order": [
         "1654460397ada925e5-0",
-        "1654460397ada925e5-1"
+        "1654460397ada925e5-1",
+        "e9eafd2d-829e-440c-8b48-0cff7bd5bfaf"
       ],
       "settings": {
         "layout": "full_bleed",
